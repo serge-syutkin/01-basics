@@ -52,7 +52,7 @@ function countByTwos() {
 }
 
 function triangle() {
-  // 3. Using loops, output a traingle of '#' characters
+  // 3. Using loops, output a traingle of '#' cvharacters
   /*
     #
     ##
